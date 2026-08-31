@@ -26,7 +26,7 @@ Design database tables for Students, Courses, Enrollment, and Fees.
 ## USE CASE DIAGRAM:
 
 <img width="1005" height="847" alt="image" src="https://github.com/user-attachments/assets/5540aa6b-cc38-4585-a839-fe1a4b700de8" />
-
+ 
 ## ACTIVITY DIAGRAM:
 
 <img width="753" height="1041" alt="image" src="https://github.com/user-attachments/assets/ebfc6d26-f3ee-4b92-a62f-44538a767130" />
